@@ -1,0 +1,12 @@
+PODS:
+  - YYAsyncLayer (1.0)
+
+DEPENDENCIES:
+  - YYAsyncLayer (~> 1.0)
+
+SPEC CHECKSUMS:
+  YYAsyncLayer: df6b01ebc695c5f6b4c15dd5c23fa3e081eb25c0
+
+PODFILE CHECKSUM: 19c45334f393d8afba521c2a2a4b52d512e87ed2
+
+COCOAPODS: 1.1.1
